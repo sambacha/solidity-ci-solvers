@@ -1,0 +1,3 @@
+[submodule "syrup-backend"]
+	path = syrup-backend
+	url = https://github.com/mariaschett/syrup-backend
